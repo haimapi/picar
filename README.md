@@ -9,3 +9,7 @@ Content of the file:
 demo1.py
     
     in this file, I try to control basic of a motor.
+
+demo2.py
+
+    in this file, some of the function are packed into classes
